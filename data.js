@@ -156,7 +156,6 @@ const trivia = [
         },
     ];
 
-
 const source = 'https://trivia.fyi';
 
 module.exports = {trivia, source};
