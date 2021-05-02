@@ -19,7 +19,7 @@ async function pauseForAnswer(answer) {
     }
     
     process.stdout.write(`Answer: ${answer}                    \r`);
-    console.log('\n\nHope you enjoyed that question. Have a nice day!\n');
+    console.log(`\n\nHope you enjoyed that question which was provided by ${source}. Have a nice day!\n`);
 
 }
 
