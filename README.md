@@ -3,11 +3,15 @@
 ## Summary
 This is my attempt at the first Codecademy project I was given to complete the "Mixed Messages" project. The goal of this project is to randomly generate a message each time the program is run from the command line. In this case, the user receives a category and a trivia questions. After a delay, the answer is provided and the program quits.
 
+## Execution
+Place app.js and data.js in the same directory. With Node.js install, from the command line run `node app.js`
+
 ## Sources
 * Github repository: https://github.com/BensBytes/codecademyMixedMessages
 * Trivia source: https://trivia.fyi
+* Project requirements: https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-javascript-syntax-portfolio-project/modules/fscp-mixed-messages/kanban_projects/mixed-messages
 
-## Project Direction
+## Project Requirements
 The following details were provided by Codecademy as high level requirements for this project. I'm copying them partly for reference, but also this is the first time I'm writing a markdown file (so good practice!).
 
 ### Overview
